@@ -1,4 +1,10 @@
 # <img src="https://github.com/user-attachments/assets/39c89490-2739-4839-827b-161b598528f7" width="30"> Olá! sou <strong>Alex Flores!</strong>
+## 💣 Análitico da minha conta GitHub
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAlexFR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAlexFR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 ## 🎓 Minhas Habilidades
@@ -11,15 +17,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 ---
-
-## 💣 Análitico da minha conta GitHub
-<a href="https://github.com/DevAlexFR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAlexFR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/DevAlexFR">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexFR&layout=compact&langs_count=7&theme=dracula"/>
-</a>
 
 
 ## Redes
