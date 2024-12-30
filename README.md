@@ -18,7 +18,7 @@
 ![SQL](https://img.icons8.com/color/30/sql.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![HTML](https://img.icons8.com/color/30/html-5.png)
-![CSS](https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png)
+![CSS](https://img.icons8.com/color/30/css.png)
 ![Visual Studio Code](https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png)
 ![Git](https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png)
 ![GitHub](https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png)
