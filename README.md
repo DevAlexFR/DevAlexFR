@@ -15,7 +15,7 @@
 ## 🎓 Minhas Habilidades
 ![Python](https://img.icons8.com/color/30/python.png)
 ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
-![SQL](https://img.icons8.com/color/30/microsoft-sql-server.png)
+![SQL](https://img.icons8.com/color/30/sql.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![HTML](https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png)
 ![CSS](https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png)
