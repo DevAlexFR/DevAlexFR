@@ -10,7 +10,8 @@
 <br>
 * 💬 Pergunte-me sobre: Desenvolvimento Back-end, Estruturas de Dados e Banco relacional
 <br>
-* 🔮 Procurando uma equipe ou organização onde eu possa aprender e desenvolver minhas habilidades <br>
+* 🔮 Procurando uma equipe ou organização onde eu possa aprender e desenvolver minhas habilidades
+<br>
 <br>
 <br>
 <br>
