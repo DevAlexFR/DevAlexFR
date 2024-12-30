@@ -11,19 +11,16 @@
   />
 </div>
 
----
+
 ## 🎓 Minhas Habilidades
-<code><img height="32" src="https://image.makewebeasy.net/makeweb/0/YLLBGff3K/AfirstPageDesign/microsoft_sql_server_standard_2017_olp_228_11135.jpg"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"/></code>
-<code><img height="30" src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
----
+![Python](https://img.icons8.com/color/30/python.png)
+![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
 
-## Redes
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-flores-rosa-76a615182/)
 
+## 📬 Contact me
+[![alexsandro77flores@gmail.com](https://img.shields.io/badge/alexsandro77flores@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white)](mailto:alexsandro77flores@gmail.com)
+[![GitHub]([https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/TangoMan75](https://github.com/DevAlexFR))
+[![LinkedIn](www.linkedin.com/in/alexsandro-flores-rosa-76a615182)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevAlexFR&labelColor=%23697689&countColor=%2337d67a&style=flat)
 
