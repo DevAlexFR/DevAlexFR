@@ -10,6 +10,8 @@
 * 🌱 Procurando uma equipe ou organização onde eu possa aprender e desenvolver minhas habilidades <br>
 <br>
 <br>
+<br>
+<br>
 </p>
 
 </p>
