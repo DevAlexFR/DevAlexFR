@@ -19,7 +19,7 @@
 <br>
 </p>
 
-<h2>
+<hr>
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevAlexFR&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
 <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexFR&layout=compact&theme=dracula" />
@@ -27,7 +27,7 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlexFR&theme=dracula" /></p>
 
-<h2/>
+<hr/>
 
 <h2 align="center"> 🎓 Minhas Habilidades </h2>
 <p align="center">
