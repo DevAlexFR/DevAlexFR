@@ -15,7 +15,13 @@
 ## 🎓 Minhas Habilidades
 ![Python](https://img.icons8.com/color/30/python.png)
 ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
+![SQL](https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![HTML](https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png)
+![CSS](https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png)
+![Visual Studio Code](https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png)
+![Git](https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png)
+![GitHub](https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png)
 
 
 ## 📬 Contate-me
