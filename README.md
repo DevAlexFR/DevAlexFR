@@ -21,7 +21,7 @@
 ![CSS](https://img.icons8.com/color/30/css3.png)
 ![Visual Studio Code](https://img.icons8.com/?size=30&id=9OGIyU8hrxW5&format=png&color=000000)
 ![Git](https://img.icons8.com/color/30/git.png)
-![GitHub](https://img.icons8.com/color/30/github.png)
+![GitHub](https://img.icons8.com/?size=30&id=g7P0iny5Rros&format=png&color=000000)
 
 
 ## 📬 Contate-me
