@@ -34,16 +34,18 @@
 
 <h2 align="center"> 🎓 Minhas Habilidades </h2>
 <p align="center">
-  ![Python](https://img.icons8.com/color/30/python.png)
-  ![SQL Server](https://img.icons8.com/?size=30&id=laYYF3dV0Iew&format=png&color=000000)
-  ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
-  ![My SQL](https://img.icons8.com/?size=30&id=vR6XrZzQr1CN&format=png&color=000000)
-  ![JavaScript](https://img.icons8.com/color/30/javascript.png)
-  ![HTML](https://img.icons8.com/color/30/html-5.png)
-  ![CSS](https://img.icons8.com/color/30/css3.png)
-  ![Visual Studio Code](https://img.icons8.com/?size=30&id=9OGIyU8hrxW5&format=png&color=000000)
-  ![Git](https://img.icons8.com/color/30/git.png)
-  ![GitHub](https://img.icons8.com/?size=30&id=g7P0iny5Rros&format=png&color=000000)
+  
+![Python](https://img.icons8.com/color/30/python.png)
+![SQL Server](https://img.icons8.com/?size=30&id=laYYF3dV0Iew&format=png&color=000000)
+![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
+![My SQL](https://img.icons8.com/?size=30&id=vR6XrZzQr1CN&format=png&color=000000)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![HTML](https://img.icons8.com/color/30/html-5.png)
+![CSS](https://img.icons8.com/color/30/css3.png)
+![Visual Studio Code](https://img.icons8.com/?size=30&id=9OGIyU8hrxW5&format=png&color=000000)
+![Git](https://img.icons8.com/color/30/git.png)
+![GitHub](https://img.icons8.com/?size=30&id=g7P0iny5Rros&format=png&color=000000)
+
 </p>
 
 <h2 align="center"> 📬 Contate-me </h2>
