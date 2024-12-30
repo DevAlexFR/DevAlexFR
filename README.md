@@ -3,7 +3,8 @@
 <img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif" width="45%" height = "100%">
 
 <p>
-
+<br>
+  
 * 🔭 Atualmente trabalhando como Desenvolvedor Full stack <br>
 * 💬 Pergunte-me sobre: Desenvolvimento Back-end, Estruturas de Dados e Banco relacional <br>
 * 🌱 Procurando uma equipe ou organização onde eu possa aprender e desenvolver minhas habilidades <br>
