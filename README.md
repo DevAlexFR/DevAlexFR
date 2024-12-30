@@ -19,7 +19,7 @@
 <br>
 </p>
 
-<hr/>
+<h2>
 <p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevAlexFR&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
 <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexFR&layout=compact&theme=dracula" />
@@ -27,7 +27,7 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlexFR&theme=dracula" /></p>
 
-<hr/>
+<h2/>
 
 <h2 align="center"> 🎓 Minhas Habilidades </h2>
 <p align="center">
@@ -43,7 +43,7 @@
   <img src="https://img.icons8.com/?size=30&id=g7P0iny5Rros&format=png&color=000000" alt="GitHub" />
 </p>
 
-<hr> align="center"> 📬 Contate-me <hr/>
+<h2 align="center"> 📬 Contate-me </h2>
 <p align="center">
   <a href="mailto:alexsandro77dev@gmail.com">
     <img src="https://img.shields.io/badge/alexsandro77dev@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white" alt="Email" />
