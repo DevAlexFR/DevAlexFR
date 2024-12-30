@@ -18,8 +18,8 @@
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 
 
-## 📬 Contact me
+## 📬 Contate-me
 [![alexsandro77dev@gmail.com](https://img.shields.io/badge/alexsandro77dev@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white)](mailto:alexsandro77dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/DevAlexFR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexsandro-flores-rosa-76a615182)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-flores-rosa-76a615182)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevAlexFR&labelColor=%23697689&countColor=%2337d67a&style=flat)
