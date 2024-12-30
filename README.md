@@ -19,7 +19,7 @@
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![HTML](https://img.icons8.com/color/30/html-5.png)
 ![CSS](https://img.icons8.com/color/30/css3.png)
-![Visual Studio Code](https://icons8.com/icon/color/30/visual-studio-code-2019)
+![Visual Studio Code](https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019)
 ![Git](https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png)
 ![GitHub](https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png)
 
