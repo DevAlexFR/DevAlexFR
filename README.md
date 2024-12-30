@@ -14,8 +14,9 @@
 
 ## 🎓 Minhas Habilidades
 ![Python](https://img.icons8.com/color/30/python.png)
+![SQL Server](https://img.icons8.com/?size=30&id=laYYF3dV0Iew&format=png&color=000000)
 ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
-![SQL](https://img.icons8.com/color/30/sql.png)
+![My SQL](https://img.icons8.com/?size=30&id=vR6XrZzQr1CN&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![HTML](https://img.icons8.com/color/30/html-5.png)
 ![CSS](https://img.icons8.com/color/30/css3.png)
