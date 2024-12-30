@@ -25,7 +25,7 @@
 <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexFR&layout=compact&theme=dracula" />
 </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlexFR" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlexFR&theme=dracula" /></p>
 
 <hr/>
 
