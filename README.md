@@ -43,7 +43,7 @@
   <img src="https://img.icons8.com/?size=30&id=g7P0iny5Rros&format=png&color=000000" alt="GitHub" />
 </p>
 
-<h2 align="center"> 📬 Contate-me </h2>
+<hr> align="center"> 📬 Contate-me <hr/>
 <p align="center">
   <a href="mailto:alexsandro77dev@gmail.com">
     <img src="https://img.shields.io/badge/alexsandro77dev@gmail.com-%23EA4335.svg?&style=flat&logo=mail.ru&logoColor=white" alt="Email" />
