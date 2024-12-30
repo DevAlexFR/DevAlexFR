@@ -27,7 +27,6 @@
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevAlexFR&theme=dracula" /></p>
 
-<hr/>
 
 <h2 align="center"> 🎓 Minhas Habilidades </h2>
 <p align="center">
