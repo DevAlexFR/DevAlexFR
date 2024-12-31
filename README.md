@@ -15,9 +15,11 @@
 * 🔭 Atualmente trabalhando como Desenvolvedor Full stack
 <br>
 
+<br>
 * 💬 Pergunte-me sobre: Desenvolvimento Back-end, Estruturas de Dados e Banco Relacional
 <br>
 
+<br>
 * 🔮 Procurando uma equipe ou organização onde eu possa aprender e desenvolver minhas habilidades
 <br>
 
