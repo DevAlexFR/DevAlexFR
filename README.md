@@ -1,6 +1,6 @@
 <h1 align="center" font-size="50px"> Olá! sou Alex Flores! <img src="https://github.com/user-attachments/assets/39c89490-2739-4839-827b-161b598528f7" width="50"> <br> </h1>
 <p align="center">
-  <img align='right' src="https://github.com/user-attachments/assets/52bb38c2-fba9-4a59-9a29-5af27f48cd8e" width="100%" height="100%">
+  <img align='right' src="[https://github.com/user-attachments/assets/52bb38c2-fba9-4a59-9a29-5af27f48cd8e](https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif)" width="100%" height="100%">
 </p>
 
 <br>
