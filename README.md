@@ -1,4 +1,7 @@
-<h1 align="center" font-size="50px"> Olá! sou Alex Flores! <img src="https://github.com/user-attachments/assets/39c89490-2739-4839-827b-161b598528f7" width="50"> <br> </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=616FF5&height=120&section=header&text=&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=616FF5&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Bem+Vindo!+Meu+nome+e+Alex+Flores;Eu+Tenho+25+anos+;Eu+sou+Desenvolvedor+Backend;)](https://git.io/typing-svg)
+
 <p align="center">
   <img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif" width="100%" height="100%">
 </p>
@@ -10,7 +13,7 @@
 <br>
 
 <br>
-* 🔭 Atualmente trabalhando como Desenvolvedor Full stack
+*  Atualmente trabalhando como Desenvolvedor Full stack 
 <br>
 
 <br>
@@ -21,8 +24,6 @@
 * 🔮 Procurando uma equipe ou organização onde eu possa aprender e desenvolver minhas habilidades
 <br>
 
-<br>
-<br>
 <br>
 </p>
 
@@ -60,3 +61,5 @@
   </a>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevAlexFR&labelColor=%23697689&countColor=%2337d67a&style=flat" alt="Visitors" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=616FF5&height=120&section=footer"/>
