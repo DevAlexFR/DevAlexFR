@@ -27,23 +27,16 @@
   <img src="https://img.shields.io/badge/eel-6C7A89?style=for-the-badge&logo=eel&logoColor=white"/>
   <img src="https://img.shields.io/badge/pyodbc-2E8B57?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Scraping-FF4500?style=for-the-badge&logo=web&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Threads-1E90FF?style=for-the-badge&logo=threads&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ORM-607D8B?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RPA-E91E63?style=for-the-badge&logo=robot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Alchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   <!-- Banco de dados -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-0078D7?style=for-the-badge&logo=sqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Alchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL-E67E22?style=for-the-badge&logo=data&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DML-3498DB?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRUD-9B59B6?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ACCESS-FF8000?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
   <!-- Front-end -->
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
