@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=616FF5&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Bem+Vindo!+Meu+nome+e+Alex+Flores;Eu+Tenho+25+anos+;Eu+sou+Desenvolvedor+Backend;)](https://git.io/typing-svg)
 
 <p align="center">
-  <img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif" width="100%" height="100%">
+  <img align='right' src="https://github.com/sahiljawale54/sahiljawale54/blob/d8b30847225e4187443573d2e7c50912af03623b/githubgif.gif" width="100%" height="50%">
 </p>
 
 <br>
