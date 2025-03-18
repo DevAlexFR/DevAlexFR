@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/polars-8A2BE2?style=for-the-badge&logo=polars&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eel-6C7A89?style=for-the-badge&logo=eel&logoColor=white"/>
   <img src="https://img.shields.io/badge/pyodbc-2E8B57?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Scraping-FF4500?style=for-the-badge&logo=web&logoColor=white"/>
   <img src="https://img.shields.io/badge/Threads-1E90FF?style=for-the-badge&logo=threads&logoColor=white"/>
@@ -59,9 +58,7 @@
     <img src="https://img.shields.io/badge/Download_CV-616FF5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </div>
-
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevAlexFR&labelColor=%23697689&countColor=%23616FF5&style=flat" alt="Visitors"/>
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=616FF5&height=120&section=footer"/>
