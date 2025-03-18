@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/alexsandro-flores-rosa-76a615182">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/DevAlexFR/DevAlexFR.pdf" download>
+  <a href="https://github.com/DevAlexFR/DevAlexFR/blob/main/DevAlexFR.pdf" download>
     <img src="https://img.shields.io/badge/Download_CV-616FF5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </div>
