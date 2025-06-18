@@ -21,14 +21,11 @@
 <div align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/polars-8A2BE2?style=for-the-badge&logo=polars&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pyodbc-2E8B57?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PDA Ecosystem-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20Scraping-FF4500?style=for-the-badge&logo=web&logoColor=white"/>
   <img src="https://img.shields.io/badge/Threads-1E90FF?style=for-the-badge&logo=threads&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Alchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"/>
   <!-- Banco de dados -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
