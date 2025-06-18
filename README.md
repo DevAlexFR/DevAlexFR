@@ -27,11 +27,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"/>
   <!-- Banco de dados -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T-SQL-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white"/>
   <!-- Front-end -->
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <!-- Outros -->
