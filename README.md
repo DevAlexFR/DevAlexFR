@@ -4,7 +4,7 @@
 
 <h1> 🚀 Sobre Mim </h1>
 
-- 💻 Atualmente trabalhando como Desenvolvedor Back-end pleno e faço freelancer <img align="right" height="150" width="120" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"/>
+- 💻 Atualmente trabalhando como Desenvolvedor Full Stack pleno e faço freelancer <img align="right" height="150" width="120" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"/>
 - 📚 Estudando constantemente para aprimorar minhas habilidades em desenvolvimento Backend 
 - 🗣️ Pergunte-me sobre: Arquitetura de Software, Banco de Dados Relacionais e Python  
 - 🔍 Procurando colaborar em projetos desafiadores
